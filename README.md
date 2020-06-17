@@ -7,7 +7,7 @@
 
 Note: for reseting the whole project delete all entries in entry_log and personal_data and remove all folders in level_1 and level_2.
 
-# 2. Algorithm
+# Algorithm
 
 Algorithm for creating datasets:
 1. Start.
