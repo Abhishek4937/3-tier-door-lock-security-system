@@ -57,7 +57,7 @@ Algorithm for access control:
 24. Save and close the entry_log file.
 25. Stop.
 
-# 4. Results
+# Results
 
 The Facial Recognition Algorithm has been implemented successfully with an accuracy of 70%.
 The Raspberry Pi will stream the video feed from the camera to the laptop.
